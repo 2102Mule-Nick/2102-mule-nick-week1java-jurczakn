@@ -30,8 +30,8 @@ public class EvaluationService {
 	 * @return
 	 */
 	public String acronym(String phrase) {
-		// TODO Write an implementation for this method declaration
-		return null;
+		
+		return "This isn't going to solve the problem yet" + phrase.charAt(0);
 	}
 
 	/**
